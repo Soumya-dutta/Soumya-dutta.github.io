@@ -15,4 +15,4 @@ Academics takes up most of my time. However, I had started learning the piano be
 
 For more of my academic projects check out my [GitHub](https://github.com/Soumya-Dutta/) page.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EoA9ODmW2B7LiYuOG60bJC-FXXnWRWYL8IxVXWAC86k&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=EoA9ODmW2B7LiYuOG60bJC-FXXnWRWYL8IxVXWAC86k"></script>
