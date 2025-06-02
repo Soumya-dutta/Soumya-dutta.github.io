@@ -9,6 +9,8 @@ redirect_from:
 ---
 {% include base_path %}
 
+- Dutta, S., Balaji, S., Varada R, Salinamakki, V. and Ganapathy, S., 2025, August. ABHINAYA--A System for Speech Emotion Recognition In Naturalistic Conditions Challenge. In Interspeech 2025. [pdf](https://arxiv.org/pdf/2505.18217.pdf)
+
 - Dutta, S. and Ganapathy, S., 2025, April. LLM supervised Pre-training for Multimodal Emotion Recognition in Conversations. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE. [pdf](https://arxiv.org/pdf/2501.11468.pdf)
 
 - Dutta, S. and Ganapathy, S., 2024, April. Zero Shot Audio to Audio Emotion Transfer With Speaker Disentanglement. In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE. [pdf](https://arxiv.org/pdf/2401.04511.pdf)
