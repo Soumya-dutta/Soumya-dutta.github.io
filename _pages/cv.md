@@ -13,12 +13,16 @@ Education
 ======
 * B.Tech. in Electrical Engineering, **Indian Institute of Engineering Science and Technology Shibpur**, 2015
 * M.Tech. in Electrical Engineering (Control and Computing), **Indian Institute of Technology Bombay**, 2018
-* Ph.D in Electrical Engineering, **Indian Institute of Science Bangalore**, (current)
+* Ph.D in Electrical Engineering, **Indian Institute of Science Bangalore**, 2026
 
 Work experience
 ======
 * July 2018- Feb 2021
   * IBM India Pvt. Ltd.
   * Position: Cognitive Data Scientist
+
+* March 2026 - current
+  * Adobe Research Bangalore
+  * Position: Research Scientist  
   
-For more details have a look at my [Resume (2025)](https://soumya-dutta.github.io/files/resume_soumyadutta_jan25.pdf).
+For more details have a look at my [Resume (2026)](https://soumya-dutta.github.io/files/resume_soumyadutta_mar26.pdf).
