@@ -9,6 +9,14 @@ redirect_from:
 ---
 {% include base_path %}
 
+### Journals
+
+- Dutta, S., Balaji, S., & Ganapathy, S. (2026). A Mixture-of-Experts model for multimodal emotion recognition in conversations. Computer Speech & Language, 100, 101965. [pdf](https://www.sciencedirect.com/science/article/pii/S0885230826000288/pdfft?md5=fa314abc11a87e18f853ef40fe129127&pid=1-s2.0-S0885230826000288-main.pdf) 
+
+- Dutta, S., & Ganapathy, S. (2025). Leveraging content and acoustic representations for speech emotion recognition. IEEE Transactions on Audio, Speech and Language Processing. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11145784)
+
+### Conferences
+
 - Dutta, S., Balaji, S., Varada R, Salinamakki, V. and Ganapathy, S., 2025, August. ABHINAYA--A System for Speech Emotion Recognition In Naturalistic Conditions Challenge. In Interspeech 2025. [pdf](https://arxiv.org/pdf/2505.18217.pdf)
 
 - Dutta, S. and Ganapathy, S., 2025, April. LLM supervised Pre-training for Multimodal Emotion Recognition in Conversations. In ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE. [pdf](https://arxiv.org/pdf/2501.11468.pdf)
