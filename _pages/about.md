@@ -5,14 +5,14 @@ excerpt: "About me"
 ---
 {% include base_path %}
 
-I am a PhD student in the Department of Electrical Engineering at the Indian Institute of Science Bangalore. Prior to this, I have worked as a Data Scientist in IBM India Pvt. Ltd after completing my Masters in Control and Computing from Indian Institute of Technology Bombay.
+I am a Research Scientist at Adobe Research India. My work focuses on how documents and content can be transformed for easier and more effective human and machine consumption, with an emphasis on faithfulness, safety, and usability.
 
-During my stint in IBM, I have worked on some client-facing projects which involved deep learning applications in the domain of object detection and tracking of persons in video feed. I have also worked on NLP projects in my leisure hours.
+Prior to joining Adobe, I completed my PhD in the Department of Electrical Engineering at the Indian Institute of Science (IISc), Bangalore, under the guidance of [Dr. Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/). My doctoral research explored multimodal modeling of emotion in spoken language, including emotion-aware pretraining, emotion recognition in conversations, and zero-shot emotional style transfer in speech. I was fortunate to be part of the vibrant [LEAP Lab](http://www.leap.ee.iisc.ac.in) during this time.
 
-As a novice PhD student working with [Dr. Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/), I am presently learning the basics of Speech Processing and hope to contribute to the field by means of Deep Learning. I am associated with the wonderful group of people (and researchers) at [LEAP Lab](http://www.leap.ee.iisc.ac.in).
+Before my PhD, I worked as a Data Scientist at IBM India Pvt. Ltd., where I contributed to client-facing projects involving deep learning for object detection and tracking in video. I also explored natural language processing problems during this period.
 
-Academics takes up most of my time. However, I had started learning the piano before the pandemic. I hope to play [this one](https://www.youtube.com/watch?v=7maJOI3QMu0) and [this one](https://www.youtube.com/watch?v=imGaOIm5HOk) someday.
+I hold a Master’s degree in Control and Computing from the Indian Institute of Technology (IIT) Bombay.
 
-For more of my academic projects check out my [GitHub](https://github.com/Soumya-Dutta/) page.
+For more details on my academic and research projects, please visit my [GitHub](https://github.com/Soumya-Dutta/) page.
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=EoA9ODmW2B7LiYuOG60bJC-FXXnWRWYL8IxVXWAC86k"></script>
